@@ -1,2 +1,2 @@
 # Lintcode_jiuzhang
-first try
+try
